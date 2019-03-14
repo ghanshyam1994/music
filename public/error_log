@@ -1,0 +1,22 @@
+[09-Mar-2019 12:40:36 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98570240 bytes) in /home/ugth9t81e1db/public_html/musicapp/app/Http/Controllers/UploadFileController.php on line 16
+[09-Mar-2019 12:46:31 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98570240 bytes) in /home/ugth9t81e1db/public_html/musicapp/app/Http/Controllers/UploadFileController.php on line 16
+[09-Mar-2019 13:07:46 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98570240 bytes) in /home/ugth9t81e1db/public_html/musicapp/app/Http/Controllers/UploadFileController.php on line 16
+[09-Mar-2019 13:40:08 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/ugth9t81e1db/public_html/musicapp/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:234
+Stack trace:
+#0 /home/ugth9t81e1db/public_html/musicapp/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(397): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/ugth9t81e1db/public_html/musicapp/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(374): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/ugth9t81e1db/public_html/musicapp/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(289): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/ugth9t81e1db/public_html/musicapp/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(188): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Ht in /home/ugth9t81e1db/public_html/musicapp/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 234
+[09-Mar-2019 13:40:17 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/ugth9t81e1db/public_html/musicapp/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:234
+Stack trace:
+#0 /home/ugth9t81e1db/public_html/musicapp/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(397): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/ugth9t81e1db/public_html/musicapp/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(374): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/ugth9t81e1db/public_html/musicapp/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(289): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/ugth9t81e1db/public_html/musicapp/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(188): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Ht in /home/ugth9t81e1db/public_html/musicapp/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 234
+[09-Mar-2019 13:40:39 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/ugth9t81e1db/public_html/musicapp/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:234
+Stack trace:
+#0 /home/ugth9t81e1db/public_html/musicapp/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(397): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/ugth9t81e1db/public_html/musicapp/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(374): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/ugth9t81e1db/public_html/musicapp/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(289): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/ugth9t81e1db/public_html/musicapp/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(188): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Ht in /home/ugth9t81e1db/public_html/musicapp/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 234
+[09-Mar-2019 14:30:41 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98570240 bytes) in /home/ugth9t81e1db/public_html/musicapp/app/Http/Controllers/UploadFileController.php on line 14
